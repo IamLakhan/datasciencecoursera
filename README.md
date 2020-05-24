@@ -12,5 +12,7 @@ Author: Lakhan Gurbani
 
 ### Links to code and code book
 
-[https://github.com/IamLakhan/datasciencecoursera/blob/master/CodeBook.md](codebook)
-[https://github.com/IamLakhan/datasciencecoursera/blob/master/run_analysis.R](run_analysis.R)
+CodeBook : (https://github.com/IamLakhan/datasciencecoursera/blob/master/CodeBook.md)
+
+
+R script: (https://github.com/IamLakhan/datasciencecoursera/blob/master/run_analysis.R)
