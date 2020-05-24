@@ -15,4 +15,9 @@ Author: Lakhan Gurbani
 CodeBook : https://github.com/IamLakhan/datasciencecoursera/blob/master/CodeBook.md
 
 
-R script: https://github.com/IamLakhan/datasciencecoursera/blob/master/run_analysis.R
+R script: 
+Link : https://github.com/IamLakhan/datasciencecoursera/blob/master/run_analysis.R
+
+This scirpt groups the data sets together and labels it correctly
+
+All you need to do is just run the file and it will save the tidy data set as a text file
